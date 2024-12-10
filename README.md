@@ -57,4 +57,4 @@ The script performs the following actions:
    cd linux-security-hardening
 2. Run script:
    ```bash
-   sudo bash harden_server.sh
+   sudo sh security-hardening.sh
