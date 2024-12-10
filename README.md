@@ -56,4 +56,5 @@ The script performs the following actions:
    git clone https://github.com/your_username/linux-security-hardening.git
    cd linux-security-hardening
 2. Run script:
+   ```bash
    sudo bash harden_server.sh
